@@ -23,7 +23,7 @@
 
 ---
 
-### : man_technologist: About Me :
+### :man_technologist: About Me :
 - :telescope: I’m working as a Software Developer and contributing to backend for building web applications.
 
 - :seedling: Learning everyday something new & interresting.
