@@ -9,7 +9,7 @@
             <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
         </a>
     </div>
-  <br/><br/>
+  <br/>
   <h1>
     Hi there
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -45,4 +45,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NishantGhanate&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantGhanate&layout=compact)](https://github.com/NishantGhanate/github-readme-stats)
+
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantGhanate&show_icons=true&theme=default)
 
