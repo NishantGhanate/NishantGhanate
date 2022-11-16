@@ -26,9 +26,9 @@
 ### :man_technologist: About Me :
 - :telescope: I’m working as a Software Developer and contributing to backend for building web applications.
 
-- :seedling: Learning everyday something new & interresting.
+- :seedling: Learning everyday something new & interesting.
 
-
+- 📄 Know about my experiences by viewing my [resume](https://drive.google.com/drive/folders/1qGVp9v0kk6OFRmKlcp4665t90o0idE8z?usp=sharing)
 
 ---
 
@@ -36,7 +36,10 @@
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ---
@@ -47,4 +50,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantGhanate&layout=compact)](https://github.com/NishantGhanate/github-readme-stats)
 
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantGhanate&show_icons=true&theme=default)
+
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NishantGhanate" alt="NishantGhanate" /></a> </p>
 
