@@ -56,6 +56,15 @@
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantGhanate&show_icons=true&theme=default)
 
 
+## Leetcode Stats:
+
+<br>
+ <div align="center">
+     <img width="70%" src="https://leetcard.jacoblin.cool/NishantGhanate?ext=heatmap" /> 
+ </div>
+<br>
+
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NishantGhanate" alt="NishantGhanate" /></a> </p>
 
