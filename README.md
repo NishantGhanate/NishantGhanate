@@ -11,32 +11,30 @@
         <a href="https://www.linkedin.com/in/nishantghanate/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="https://www.youtube.com/channel/UCoBg_pPLFLMiyFhox0tkJnQ">
-            <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-        </a>
     </div>
   <br/>
-  <h1>
-    Hi there
-     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   </h1>
-
-<div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  
-</div>
+ 
 
----
+## About me:
+<br>
 
-### :man_technologist: About Me :
-- :telescope: I’m working as a Software Developer and contributing to backend for building web applications.
+   
+ Hello ! I'm  Nishant, a Computer Engineer from Mumbai,India. I'm eager to create an impact on the world by solving significant challenges.
 
-- :seedling: Learning everyday something new & interesting.
 
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+- :seedling: Learning everyday something new & interesting. 
+-  Actively participating in coding competitions.
+-  I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/NishantGhanate/)** in python.
+-  Approach me **nishant7.ng@gmail.com**. 
 - 📄 Know about my experiences by viewing my [resume](https://drive.google.com/drive/folders/1qGVp9v0kk6OFRmKlcp4665t90o0idE8z?usp=sharing)
 
----
+
+<br>
+
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -54,13 +52,25 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NishantGhanate&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### :fire: Github Stats :
+ <br>
+  <p align="center">
+   <a href="https://github.com/NishantGhanate"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NishantGhanate&theme=dark&hide_border=true" /> 
+   </a>  
+ </p>
+<p align="center">
+    <a href="https://github.com/NishantGhanate">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NishantGhanate&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+    </a>
+</p>
+<p align="center">
+   <a href="https://github.com/NishantGhanate"> 
+     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishantGhanate&layout=compact&langs_count=20&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+   </a>  
+ </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantGhanate&layout=compact)](https://github.com/NishantGhanate/github-readme-stats)
-
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantGhanate&show_icons=true&theme=default)
-
+<br>
 
 ## Leetcode Stats:
 
@@ -71,6 +81,10 @@
 <br>
 
 
+<!---
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NishantGhanate" alt="NishantGhanate" /></a> </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NishantGhanate" alt="NishantGhanate" /></a> 
+  </p>
+--->
+  
 
