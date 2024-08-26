@@ -1,3 +1,9 @@
+<br>
+  <a href="https://github.com/NishantGhanate">
+      <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=NishantGhanate&data=followers,repositories,stars,commits&theme=rgb">
+  </a>
+<br>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
